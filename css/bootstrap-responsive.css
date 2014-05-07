@@ -94,7 +94,7 @@
 }
  @media (min-width: 1200px) {
  .row {
- margin-left: -30px;
+ margin-left: -32px;
  *zoom: 1;
 }
  .row:before,  .row:after {
@@ -138,7 +138,7 @@
  width: 470px;
 }
  .span4 {
- width: 370px;
+ width: 360px;
 }
  .span3 {
  width: 270px;
